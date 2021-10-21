@@ -1,4 +1,4 @@
-👋 Welcome to Steady Studio!
+👋 We are Steady Studio!
 
 🎮 A Roblox game production community.
 
