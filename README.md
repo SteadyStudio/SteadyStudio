@@ -1,9 +1,7 @@
-🎊 Roblox game development group
+👋 Welcome to Steady Studio!
 
-Managed by:
+🎮 A Roblox game production community.
 
-Arifido - Founder
-
-RarelySam - Co-Founder
-
-![Steady Studio icon](https://t6.rbxcdn.com/ba912ac8c24a8e3ef6901bcf81a69e2b)
+😄 The team:
+- ⭐PekaEzzT [Building & designing]
+- 🌠RarelySam [Scripting & production managing]
